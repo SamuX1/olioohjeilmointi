@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{94F340C9-AE0C-4EA0-AC5C-E05D56E3BC99}</ProjectGuid>
+    <ProjectGuid>{EF80D388-20D6-4053-9C60-1B37CF0D6D4F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Harjoitus3</RootNamespace>
-    <AssemblyName>Harjoitus3</AssemblyName>
+    <RootNamespace>harjoitus4</RootNamespace>
+    <AssemblyName>harjoitus4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="kiuas.cs" />
+    <Compile Include="Albumi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="songs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
