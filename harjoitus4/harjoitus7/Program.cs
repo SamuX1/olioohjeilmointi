@@ -10,30 +10,27 @@ namespace harjoitus7
     {
         static void Main(string[] args)
         {
-            int kerros;
+            Hissi tiettyhissi = new Hissi(1, 5);
+            Hissi kouluhissi = new Hissi(-1, 4);
 
-            for (int i = 0; i < 5; i++)
+            string annettuKerros;
+
+            while(true)
             {
-                Console.WriteLine("Anna uusi kerro (1-6): ");
-                kerros = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Olet kerroksessa: " + tiettyhissi.NykyinenKerros);
+                Console.WriteLine("Mihin kerrokseen?");
+                annettuKerros = Console.ReadLine();
 
-                if (kerros > 6)
-                {
-                    Console.WriteLine("Error: Virheellinen kerros");
-                    
 
-                }
-                if (kerros < 1)
+                if(annettuKerros == "poistu")
                 {
-                    Console.WriteLine("Error: Virhellinen kerros");
-                    
+                    Console.WriteLine("Postut Hissista. ");
+                    break;
                 }
                 else
                 {
-                    Console.WriteLine("Hissi on nyt kerroksessa: {0}", kerros);
-                    return;
+                    tiettyhissi.NykyinenKerros = int.Parse(annettuKerros);
                 }
-
             }
         }
         

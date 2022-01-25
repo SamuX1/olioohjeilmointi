@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2E0C673C-A760-4FAA-9B61-A759ABA93EDF}</ProjectGuid>
+    <ProjectGuid>{AD7A2365-2681-4766-84D3-4AC5F7C3FB78}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>harjoitus7</RootNamespace>
-    <AssemblyName>harjoitus7</AssemblyName>
+    <RootNamespace>Harjoitus8</RootNamespace>
+    <AssemblyName>Harjoitus8</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Hissi.cs" />
+    <Compile Include="Henkilö.cs" />
+    <Compile Include="Pomo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Työntekijä.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
