@@ -18,6 +18,8 @@ namespace Harjoitus11
             opiskelijaominaisuudet.Add(keppo.opiskelijaID, keppo);
             opiskelijaominaisuudet.Add(pikko.opiskelijaID, pikko);
 
+
+            //postetaan opiskelija jonka opiskeluID on 12378-2173
             opiskelijaominaisuudet.Remove("12378-2173");
 
             try

@@ -1,0 +1,7 @@
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus12\bin\Debug\harjoitus12.exe.config
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus12\bin\Debug\harjoitus12.exe
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus12\bin\Debug\harjoitus12.pdb
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus12\obj\Debug\harjoitus12.csproj.AssemblyReference.cache
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus12\obj\Debug\harjoitus12.csproj.CoreCompileInputs.cache
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus12\obj\Debug\harjoitus12.exe
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus12\obj\Debug\harjoitus12.pdb
