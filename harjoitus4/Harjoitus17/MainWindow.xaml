@@ -1,0 +1,21 @@
+﻿<Window x:Class="Harjoitus17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus17"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnLampötila" Content="lämpötila" HorizontalAlignment="Left" Margin="129,108,0,0" VerticalAlignment="Top" Width="75" Height="29" Click="btnLampötila_Click"/>
+        <TextBlock x:Name="tbLampötila" HorizontalAlignment="Left" Margin="129,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.284,0.229"><Run Text="21"/><LineBreak/><Run/></TextBlock>
+        <Button x:Name="btnKettiövalot" Content="keittiövalot" HorizontalAlignment="Left" Margin="226,108,0,0" VerticalAlignment="Top" Width="75" Height="29" Click="btnKettiövalot_Click"/>
+        <TextBlock x:Name="tbKeittiövalot" HorizontalAlignment="Left" Margin="226,142,0,0" TextWrapping="Wrap" Text="päälle" VerticalAlignment="Top" RenderTransformOrigin="-0.284,0.229"/>
+        <Button x:Name="btnOlohuonevalot" Content="olohuonevalot" HorizontalAlignment="Left" Margin="335,108,0,0" VerticalAlignment="Top" Width="75" Height="29" Click="btnOlohuonevalot_Click"/>
+        <TextBlock x:Name="tbOlohuonevalot" HorizontalAlignment="Left" Margin="335,142,0,0" TextWrapping="Wrap" Text="päälle" VerticalAlignment="Top" RenderTransformOrigin="-0.284,0.229"/>
+        <Button x:Name="btnOvi" Content="Ovi" HorizontalAlignment="Left" Margin="440,108,0,0" VerticalAlignment="Top" Width="75" Height="29" Click="btnOvi_Click"/>
+        <TextBlock x:Name="tbOvi" HorizontalAlignment="Left" Margin="440,142,0,0" TextWrapping="Wrap" Text="auki" VerticalAlignment="Top" RenderTransformOrigin="-0.284,0.229"/>
+        <TextBox HorizontalAlignment="Left" Height="20" Margin="299,57,0,0" TextWrapping="Wrap" Text="Talo Harjoitus" VerticalAlignment="Top" Width="82"/>
+
+    </Grid>
+</Window>
