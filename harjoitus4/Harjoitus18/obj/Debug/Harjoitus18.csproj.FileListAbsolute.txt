@@ -1,0 +1,14 @@
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\bin\Debug\Harjoitus18.exe.config
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\bin\Debug\Harjoitus18.exe
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\bin\Debug\Harjoitus18.pdb
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\MainWindow.g.cs
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\App.g.cs
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\Harjoitus18_MarkupCompile.cache
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\Harjoitus18_MarkupCompile.lref
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\MainWindow.baml
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\Harjoitus18.g.resources
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\Harjoitus18.Properties.Resources.resources
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\Harjoitus18.csproj.GenerateResource.cache
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\Harjoitus18.csproj.CoreCompileInputs.cache
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\Harjoitus18.exe
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\Harjoitus18\obj\Debug\Harjoitus18.pdb
