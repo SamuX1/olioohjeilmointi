@@ -23,6 +23,11 @@ namespace Harjoitus8
             työntekijä.viikottaisettunnit = 40;
 
             työntekijä.tulostadata();
+
+            Pomo pomo = new Pomo();
+            pomo.boonus = 20;
+            pomo.tulostadata2();
+            
         }
     }
 }
