@@ -9,6 +9,7 @@ namespace harjoitus7
     class Hissi
     {
     public Hissi(int minkerros, int maxkerros)
+        
         {
             this.minkerros < maxkerros;
             this.maxkerros > minkerros;

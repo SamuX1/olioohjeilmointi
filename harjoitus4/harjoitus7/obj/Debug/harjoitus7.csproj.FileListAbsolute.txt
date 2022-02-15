@@ -1,0 +1,2 @@
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus7\obj\Debug\harjoitus7.csproj.AssemblyReference.cache
+C:\Users\samuel.borzi\source\repos\SamuX1\olioohjeilmointi\harjoitus4\harjoitus7\obj\Debug\harjoitus7.csproj.CoreCompileInputs.cache
