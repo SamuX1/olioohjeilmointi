@@ -16,7 +16,7 @@ namespace harjoitus4
             albumi.Nimi = "Albumin nimi";
             albumi.Genre = "Albumin genre";
             albumi.Hinta = "Albumin hinta";
-
+            //tulosta songs-luokkaan annettu tieto
             albumi.TulostaData();
             Console.WriteLine(albumi.ToString());
 

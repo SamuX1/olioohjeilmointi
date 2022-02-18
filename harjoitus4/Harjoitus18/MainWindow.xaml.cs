@@ -30,6 +30,7 @@ namespace Harjoitus18
 
         private void btnSumma_Click(object sender, RoutedEventArgs e)
         {
+            //käytetään muuntamaan textbox
             nmro1 = Convert.ToDouble(tbNumero1.Text);
             nmro2 = Convert.ToDouble(tbNumero2.Text);
 

@@ -16,6 +16,7 @@ namespace harjoitus4
 
         public void TulostaData2()
         {
+            
             Console.WriteLine("songs: ");
             Console.WriteLine("--- Nimi: " + Nimi);
             Console.WriteLine("--- Nimi: " + Nimi2);

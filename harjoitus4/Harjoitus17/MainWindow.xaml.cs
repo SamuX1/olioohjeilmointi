@@ -41,6 +41,7 @@ namespace Harjoitus17
 
         private void btnKettiövalot_Click(object sender, RoutedEventArgs e)
         {
+            //jos keittiövalot ovat päälle se laittaa ne kiinin 
             if (tbKeittiövalot.Text == "päälle")
             {
                 tbKeittiövalot.Text = valot;

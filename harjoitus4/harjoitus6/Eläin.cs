@@ -8,7 +8,7 @@ namespace harjoitus6
 {
     public class Eläin
     {
-
+        //instanssit laskee kuinka monta eläimet on
         private static int instanssit = 0;
         public Eläin()
         {

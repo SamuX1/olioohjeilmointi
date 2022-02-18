@@ -23,7 +23,7 @@ namespace Harjoitus19
         public MainWindow()
         {
             InitializeComponent();
-
+            //Käytetään siirtyminen uudelle sivulle
             mainFrame.NavigationService.Navigate(new Page1());
         }
 

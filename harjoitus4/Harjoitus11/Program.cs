@@ -10,6 +10,7 @@ namespace Harjoitus11
     {
         static void Main(string[] args)
         {
+            //Dictionary tarvii luettelon luomiseen
             Dictionary<string, Opiskelija> opiskelijaominaisuudet = new Dictionary<string, Opiskelija>();
 
             Opiskelija keppo = new Opiskelija("Keppa", "Keppanen", "ryhmatunnus", "12383-3213");
@@ -19,7 +20,7 @@ namespace Harjoitus11
             opiskelijaominaisuudet.Add(pikko.opiskelijaID, pikko);
 
 
-            //postetaan opiskelija jonka opiskeluID on 12378-2173
+            //poistetaan opiskelija jonka opiskeluID on 12378-2173
             opiskelijaominaisuudet.Remove("12378-2173");
 
             try

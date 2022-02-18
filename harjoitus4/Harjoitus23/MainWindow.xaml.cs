@@ -27,7 +27,7 @@ namespace Harjoitus23
             
             int arvo = int.Parse(tbLämpötila.Text);
             int arvo2 = int.Parse(tbKosteus.Text);
-
+            
             if (arvo > 120)
             {
                 tbLämpötila.Text = "Error";

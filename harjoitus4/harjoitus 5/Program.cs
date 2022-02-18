@@ -10,10 +10,11 @@ namespace harjoitus_5
     {
         static void Main(string[] args)
         {
-
+            //float käytetään jos numero on desimali
             float a = 5.0f;
             float b = 2.5f;
 
+            
             float summa = Laskin.Summa(a, b);
             float erotus = Laskin.Erotus(a, b);
             float kertolasku = Laskin.Kertolasku(a, b);

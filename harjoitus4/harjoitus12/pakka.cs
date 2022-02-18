@@ -34,8 +34,6 @@ namespace harjoitus12
         public static void Randomi()
         {
 
-
-
             var rnd = new Random();
             var randomized = kortteja.OrderBy(item => rnd.Next());
             int i = 1;
